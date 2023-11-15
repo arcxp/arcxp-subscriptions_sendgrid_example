@@ -1,0 +1,20 @@
+{
+  "verifyEmailHandler": ["commerce:VERIFY_EMAIL"],
+  "emailVerifiedHandler": ["commerce:EMAIL_VERIFIED"],
+  "userSignUpHandler": ["commerce:USER_SIGN_UP"],
+  "userSignInAddedHandler": ["commerce:USER_SIGN_IN_ADDED"],
+  "passwordResetRequestHandler": ["commerce:PASSWORD_RESET_REQUEST"],
+  "passwordResetHandler": ["commerce:PASSWORD_RESET"],
+  "magicLinkSendHandler": ["commerce:MAGIC_LINK_SEND"],
+  "orderConfirmationHandler": ["commerce:FINALIZE_PAYMENT", "commerce:ORDER_CONFIRMATION"],
+  "startSubscriptionHandler": ["commerce:START_SUBSCRIPTION"],
+  "renewSubscriptionHandler": ["commerce:RENEW_SUBSCRIPTION"],
+  "abandonedCartHandler": ["commerce:ABANDONED_CART"],
+  "updateBillingAddressHandler": ["commerce:UPDATE_BILLING_ADDRESS"],
+  "updatePaymentMethodHandler": ["commerce:UPDATE_PAYMENT_METHOD"],
+  "createEmailDomainHandler": ["commerce:CREATE_EMAIL_DOMAIN"],
+  "deleteEmailGroupSubHandler": ["commerce:DELETE_EMAIL_GROUP_SUB"],
+  "giftSubscriptionPurchaseHandler": ["commerce:GIFT_SUBSCRIPTION_PURCHASE"],
+  "giftRecipientSetHandler": ["commerce:GIFT_RECIPIENT_SET"],
+  "giftRedeemedHandler": ["commerce:GIFT_REDEEMED"]
+}
