@@ -35,7 +35,7 @@ This should be done for each event that you'd like your integration to listen to
 
 ## Modify the Example Code
 
-* Download and unzip <a href="https://github.com/arcxp/arcxp-subscriptions_sendgrid_example/dist.zip" target="_blank">https://github.com/arcxp/arcxp-subscriptions_sendgrid_example/dist.zip</a>
+* Download and unzip <a href="https://github.com/arcxp/arcxp-subscriptions_sendgrid_example/blob/main/dist.zip" target="_blank">https://github.com/arcxp/arcxp-subscriptions_sendgrid_example/blob/main/dist.zip</a>
 
 * Copy the code in the `src` to the newly created repository. If you do not have access to this code, please submit an ACS request.
 
